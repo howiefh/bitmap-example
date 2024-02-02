@@ -1,0 +1,100 @@
+<svg width="765" height="767" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" baseProfile="full" viewBox="0 0 765 767" style="background: white;">
+<rect width="765" height="767" x="0" y="0" id="0" fill="none"></rect>
+<path d="M87.686 724.5L726.75 724.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M87.686 629.5L726.75 629.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M87.686 534.5L726.75 534.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M87.686 439.5L726.75 439.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M87.686 344.5L726.75 344.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M87.686 249.5L726.75 249.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M87.686 155.5L726.75 155.5" fill="none" stroke="#E0E6F1"></path>
+<path d="M87.686 60.5L726.75 60.5" fill="none" stroke="#E0E6F1"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="-6" transform="translate(87.686 45)" fill="#6E7079">毫秒</text>
+<path d="M87.686 724.5L726.75 724.5" fill="none" stroke="#6E7079" stroke-linecap="round"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" transform="translate(741.75 723.99)" fill="#6E7079">线程数</text>
+<path d="M87.5 723.99L87.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M146.5 723.99L146.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M204.5 723.99L204.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M262.5 723.99L262.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M320.5 723.99L320.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M378.5 723.99L378.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M436.5 723.99L436.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M494.5 723.99L494.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M552.5 723.99L552.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M610.5 723.99L610.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M668.5 723.99L668.5 728.99" fill="none" stroke="#6E7079"></path>
+<path d="M727.5 723.99L727.5 728.99" fill="none" stroke="#6E7079"></path>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(79.686 723.99)" fill="#6E7079">0</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(79.686 629.1343)" fill="#6E7079">500,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(79.686 534.2786)" fill="#6E7079">1,000,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(79.686 439.4229)" fill="#6E7079">1,500,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(79.686 344.5671)" fill="#6E7079">2,000,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(79.686 249.7114)" fill="#6E7079">2,500,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(79.686 154.8557)" fill="#6E7079">3,000,000</text>
+<text dominant-baseline="central" text-anchor="end" style="font-size:12px;font-family:sans-serif;" transform="translate(79.686 60)" fill="#6E7079">3,500,000</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(87.686 731.99)" fill="#6E7079">单线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(145.7827 731.99)" fill="#6E7079">10线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(203.8794 731.99)" fill="#6E7079">15线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(261.9762 731.99)" fill="#6E7079">20线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(320.0729 731.99)" fill="#6E7079">25线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(378.1696 731.99)" fill="#6E7079">30线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(436.2664 731.99)" fill="#6E7079">35线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(494.3631 731.99)" fill="#6E7079">40线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(552.4598 731.99)" fill="#6E7079">45线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(610.5565 731.99)" fill="#6E7079">50线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(668.6533 731.99)" fill="#6E7079">55线程</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" y="6" transform="translate(726.75 731.99)" fill="#6E7079">60线程</text>
+<g clip-path="url(#zr0-c0)">
+<path d="M87.686 414.2396L145.7827 693.0685L203.8794 702.649L261.9762 707.4223L320.0729 711.6094L378.1696 711.8873L436.2664 713.8412L494.3631 713.2457L552.4598 714.907L610.5565 714.4246L668.6533 713.9167L726.75 712.2429" fill="none" stroke="rgb(84,112,198)" stroke-width="2" stroke-linejoin="bevel"></path>
+</g>
+<g clip-path="url(#zr0-c1)">
+<path d="M87.686 102.0444L145.7827 664.8702L203.8794 683.7841L261.9762 692.998L320.0729 699.5576L378.1696 701.8054L436.2664 703.6634L494.3631 704.999L552.4598 705.308L610.5565 706.7307L668.6533 706.3207L726.75 706.2478" fill="none" stroke="rgb(145,204,117)" stroke-width="2" stroke-linejoin="bevel"></path>
+</g>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,87.686,414.2396)" fill="rgb(255,255,255)" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,145.7827,693.0685)" fill="rgb(255,255,255)" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,203.8794,702.649)" fill="rgb(255,255,255)" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,261.9762,707.4223)" fill="rgb(255,255,255)" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,320.0729,711.6094)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,378.1696,711.8873)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,436.2664,713.8412)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,494.3631,713.2457)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,552.4598,714.907)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,610.5565,714.4246)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,668.6533,713.9167)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,726.75,712.2429)" fill="#fff" stroke="#5470c6"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,87.686,102.0444)" fill="rgb(255,255,255)" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,145.7827,664.8702)" fill="rgb(255,255,255)" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,203.8794,683.7841)" fill="rgb(255,255,255)" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,261.9762,692.998)" fill="rgb(255,255,255)" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,320.0729,699.5576)" fill="#fff" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,378.1696,701.8054)" fill="#fff" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,436.2664,703.6634)" fill="#fff" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,494.3631,704.999)" fill="#fff" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,552.4598,705.308)" fill="#fff" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,610.5565,706.7307)" fill="#fff" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,668.6533,706.3207)" fill="#fff" stroke="#91cc75"></path>
+<path d="M1 0A1 1 0 1 1 1 -0.0001" transform="matrix(2,0,0,2,726.75,706.2478)" fill="#fff" stroke="#91cc75"></path>
+<path d="M-5 -5l182.8 0l0 23.2l-182.8 0Z" transform="translate(296.1 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<path d="M0 7L25 7" transform="translate(297.1 4.6)" fill="#000" stroke="#5470c6" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(297.1 4.6)" fill="#fff" stroke="#5470c6" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(297.1 4.6)" fill="#333">25万人群</text>
+<path d="M0 7L25 7" transform="translate(388.5 4.6)" fill="#000" stroke="#91cc75" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10"></path>
+<path d="M18.1 7A5.6 5.6 0 1 1 18.1 6.9994" transform="translate(388.5 4.6)" fill="#fff" stroke="#91cc75" stroke-width="2" stroke-linecap="butt" stroke-miterlimit="10"></path>
+<text dominant-baseline="central" text-anchor="start" style="font-size:12px;font-family:sans-serif;" x="30" y="7" transform="translate(388.5 4.6)" fill="#333">50万人群</text>
+<path d="M-0.5421 -0.8857A0.6 0.6 0 1 1 0.5421 -0.8857C0.3878 -0.5605 0 -0.42 0 0C0 -0.42 -0.3878 -0.5605 -0.5421 -0.8857Z" transform="matrix(25,0,0,25,87.686,414.2396)" fill="#5470c6"></path>
+<path d="M-0.5421 -0.8857A0.6 0.6 0 1 1 0.5421 -0.8857C0.3878 -0.5605 0 -0.42 0 0C0 -0.42 -0.3878 -0.5605 -0.5421 -0.8857Z" transform="matrix(25,0,0,25,552.4598,714.907)" fill="#5470c6"></path>
+<path d="M-0.5421 -0.8857A0.6 0.6 0 1 1 0.5421 -0.8857C0.3878 -0.5605 0 -0.42 0 0C0 -0.42 -0.3878 -0.5605 -0.5421 -0.8857Z" transform="matrix(25,0,0,25,87.686,102.0444)" fill="#91cc75"></path>
+<path d="M-0.5421 -0.8857A0.6 0.6 0 1 1 0.5421 -0.8857C0.3878 -0.5605 0 -0.42 0 0C0 -0.42 -0.3878 -0.5605 -0.5421 -0.8857Z" transform="matrix(25,0,0,25,610.5565,706.7306)" fill="#91cc75"></path>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(87.686 388.0968)" fill="#eee" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">27.2分钟</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(552.4598 688.7641)" fill="#eee" stroke="#5470c6" stroke-width="2" paint-order="stroke" stroke-miterlimit="2">0.8分钟</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(87.686 75.9016)" fill="#333">55.6分钟</text>
+<text dominant-baseline="central" text-anchor="middle" style="font-size:12px;font-family:sans-serif;" transform="translate(610.5565 680.5878)" fill="#333">1.5分钟</text>
+<path d="M-5 -5l10 0l0 10l-10 0Z" transform="translate(5 5)" fill="rgb(0,0,0)" fill-opacity="0" stroke="#ccc" stroke-width="0"></path>
+<defs >
+<clipPath id="zr0-c0">
+<path d="M86 59l641 0l0 665.99l-641 0Z" fill="#000"></path>
+</clipPath>
+<clipPath id="zr0-c1">
+<path d="M86 59l641 0l0 665.99l-641 0Z" fill="#000"></path>
+</clipPath>
+</defs>
+</svg>
